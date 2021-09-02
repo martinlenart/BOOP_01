@@ -36,6 +36,6 @@ namespace BOOP_01_14a
     }
 
     // Exercises
-    // 1.   Create an instance of Type from some build-in types such as int, bool and double using both typeof() and GetType().
-    // 2.   Explore some function members of the Type objects created from 1.     
+    // 1.   In Exercise0109 to create a variable of Type for Stock 
+    // 2.   Explore some function members of the Type objects created from 1.
 }

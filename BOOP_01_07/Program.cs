@@ -41,3 +41,12 @@ namespace BOOP_01_07
         }
     }
 }
+// Exercises:
+// 1.   Step through above program with the debugger. Set a breakpoint on row 10 and single step.
+//      Check in the debugger output window the values of the variables.
+// 2.   Explain above what is a type, variable and value
+// 3.   Do you understand why variables can have same value even though they are initialized differently.
+// 4.   Modify above code to add a variable doubleVar3 of type double and initialize it doubleVar1 + 1_000_000 x doubleVar2.
+//      Print doubleVar3
+// 5.   A book costs 150.00 kr. Declare a decimal variable and assign it the books price. Declare a decimal constant with VAT 25%.
+//      Declare a decimal variable and assign it the VAT of the book. Print the VAT.

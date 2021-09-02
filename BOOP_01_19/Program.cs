@@ -8,10 +8,12 @@ namespace BOOP_01_19
         {
             // Unlike decimal, float and double can cannot precisely represent numbers fractional component
             float x = 0.1f;                                             // Not quite 0.1
-            Console.WriteLine(x + x + x + x + x + x + x + x + x + x);   // 1.0000001
+            float xNotQuite = x + x + x + x + x + x + x + x + x + x;
+            Console.WriteLine(xNotQuite);   // 1.0000001
 
-            decimal y = 0.1m;                                           // Exactly 0.1
-            Console.WriteLine(y + y + y + y + y + y + y + y + y + y);   // 1.0
+            decimal y = 0.1m;  // Exactly 0.1
+            decimal yExactly = y + y + y + y + y + y + y + y + y + y;
+            Console.WriteLine(yExactly);   // 1.0
 
             // Neither double nor decimal can precisely represent an inifinte fractional number
             decimal m = 1M / 6M;              
@@ -31,3 +33,6 @@ namespace BOOP_01_19
         }
     }
 }
+// Exercises
+// 1.   Step though the code using the debugger and monitor the value
+//      -- Do you understand the difference between xNotQuite and yExactly and the difference bweteen m and d?

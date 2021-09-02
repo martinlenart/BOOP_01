@@ -41,3 +41,10 @@ namespace BOOP_01_13
         }
     }
 }
+// Exercises:
+// 1.   Discuss in the group and formulate in your own words, what is the difference between a static instance and an object instance.
+// 2.   In your programs, Exercise0109 make a static decimal constant CommissionRate and set it to 2%.
+// 3.   Caluclate the commision of the Stock, i.e. Price*Amount*CommisionRate and modify the WriteLine function() to
+//      print out the Commission.
+// 4.   From Main(), Print out the Constant CommisionRate.
+// 4.   Make the same changes in Exercise0110

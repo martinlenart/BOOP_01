@@ -51,3 +51,14 @@ namespace BOOP_01_06
         }
     }
 }
+// Exercises:
+// 1.   Step through above program with the debugger. Set a breakpoint on row 10 and single step.
+//      Check in the debugger output window the values of the variables.
+// 2.   Explain above what is a type, variable and value
+// 3.   Do you understand why variables can have same value even though they are initialized differently.
+// 4.   Modify above code to add a variable byteVar2 of type "byte" and initialize it with 235 binary. 
+//      Binary converter at https://www.binaryhexconverter.com/decimal-to-binary-converter
+//      Print out the variable byteVar2
+
+
+

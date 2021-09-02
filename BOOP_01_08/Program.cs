@@ -48,3 +48,9 @@ namespace BOOP_01_08
         }
     }
 }
+// Exercises:
+// 1.   Declare a variable of type long, longVar1, and assign it a value. Declare another variable of type int, intVar2,
+//      and assign it the value of longVar1. Do you have to make an implicit or explicit type conversion?
+// 2.   Declare a variable of byte, byteVar1 and assign it a value. Declare another variable of type int intVar3
+//      and assign it the value of byteVar1. Do you have to make an implicit or explicit type conversion?
+// 3.   Create a new console project. Declare variables of real types and make at least one implicit and one explicit conversion.

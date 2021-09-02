@@ -33,3 +33,6 @@ namespace BOOP_01_10
         }
     }
 }
+// Exercises:
+// 1.   Create a new Console Project (Exercise0110) and its corresponding GitHub repository
+// 2.   Copy the code from  Exercise0110 and make Stock a class instead of a struct

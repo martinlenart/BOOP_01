@@ -34,3 +34,8 @@ namespace BOOP_01_11b
         }
     }
 }
+// Exercises:
+// 1.   In the console project you created in BOOP _01_10 remove the variable Name in class Stock
+//      - Draw a memory address/memory cell diagram of the creation of the variable, myStock,  
+// 2.   Assign myStock.Amount to 500. 
+//      - Draw the memory address/memory cell diagram showing the change

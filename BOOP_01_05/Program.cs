@@ -60,3 +60,13 @@ namespace BOOP_01_05
         }
     }
 }
+
+// Exercises:
+// 1.   Create a new Console Project (Exercise0105) and its corresponding GitHub repository
+// 2.   In the project write a simple program that declares an integer constant of value 1234, an integer variable named twiceVal.
+//      Assign twiceVal to 2 times the constant and print out the result, i.e., 2468.
+// 3.   In the same program, declare two string constants "Hello " and "OOP1 class!". Declare a string variable and
+//      assign it "Hello Newton OOP1 class!" using the two constants. 
+// 4.   In the same program declare two float variables. Assign the first variable 5 and the
+//      second variable to the first varaible + the previously declared integer constant.  
+// 5.   Explain what is a type, value, variable and constans in your code.

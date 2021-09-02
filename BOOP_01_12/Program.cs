@@ -26,3 +26,5 @@ namespace BOOP_01_12
         }
     }
 }
+// Exercises:
+// 1.   Declare a variable of type bool and assign if a default value. What to you think it will be?

@@ -25,3 +25,6 @@ namespace BOOP_01_17
         }
     }
 }
+// Exercises
+// 1.   Step though the code using the debugger and monitor the value of intVar1.
+//      - Check the overflow and underflow.

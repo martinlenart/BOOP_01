@@ -14,7 +14,7 @@ namespace BOOP_01_18
             Console.WriteLine(1.0 / 0.0);     //  8 = Infinity
             Console.WriteLine(-1.0 / 0.0);     // -Infinity
             Console.WriteLine(1.0 / -0.0);     // -Infinity
-            Console.WriteLine(-1.0 / -0.0);     //  Infinity
+            Console.WriteLine(-1.0 / -0.0);    //  Infinity
 
             // Dividing zero by zero, or subtracting infinity from infinity, results in a NaN:
             Console.WriteLine(0.0 / 0.0);                  //  NaN

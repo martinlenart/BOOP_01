@@ -19,3 +19,9 @@ else
     Console.WriteLine("No command line parameters");
     return 1;
 }
+
+// Exercises:
+// 1.   Change the Command Line Parameter by changing Project->Debug->Application Argument.
+// 2.   Run the program with and without parameters and see the difference in output. 
+//          - Where do you think the decision if there are parameters or not happen?
+// 3.   Run the program from command line with and without parameters

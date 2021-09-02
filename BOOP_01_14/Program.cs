@@ -33,3 +33,7 @@ namespace BOOP_01_14
         }
     }
 }
+// Exercises:
+// 1.   In Exercises Exercise0109 and Exercise0109 make the constant CommisionRate private.
+//      - What changes do you have to make the progam compile and execute? Why? 
+// 2.   Make the same changes in Exercise0110
