@@ -27,7 +27,7 @@ namespace BOOP_01_06
             Console.WriteLine(sizeof(int));  // 4
             Console.WriteLine(int.MaxValue); // 2147483647
             Console.WriteLine(int.MinValue); // -2147483648
-            Console.WriteLine(intVar1);      // 65
+            Console.WriteLine(intVar1);      // 350
             Console.WriteLine(intVar1 == intVar2); // True
 
             //unsigned integrals example
